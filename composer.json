@@ -1,0 +1,19 @@
+{
+    "name": "kercode07/pdo",
+    "description": "TP Pdo",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kercode07\\Pdo\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sarah5630",
+            "email": "sarah.rop@live.fr"
+        }
+    ]
+}
